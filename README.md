@@ -1,5 +1,9 @@
 # AI-Assisted Task Orchestration Practice
 
+## Provenance
+
+This practice was inspired by agentic AI work performed at Microsoft. The material in this repository is intentionally sanitized: examples, templates, and terminology are generalized so they do not include company-confidential project details, internal system names, customer data, credentials, or operational evidence.
+
 ## Core idea
 
 AI-assisted task orchestration is a reusable practice for managing complex work from ambiguity to completion. It is not limited to service retirement or decommission projects. It is a general operating model for any work that requires evidence, owners, decisions, follow-up, and stakeholder communication.
