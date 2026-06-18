@@ -8,10 +8,18 @@ This practice was inspired by agentic AI work performed at Microsoft. The materi
 
 AI-assisted task orchestration is a reusable practice for managing complex work from ambiguity to completion. It is not limited to service retirement or decommission projects. It is a general operating model for any work that requires evidence, owners, decisions, follow-up, and stakeholder communication.
 
+The value is not just that AI helps move tasks along. The value is that the work compounds. Every real task can leave behind better prompts, better checklists, better safety gates, better communication patterns, better evals, and better judgment about what to do next.
+
 The goal is to turn task management into a learning loop:
 
 ```text
 Human intent -> AI orchestration -> bounded sensors/helpers -> evidence -> decision -> action -> follow-up -> learning
+```
+
+Over time, that loop turns one-off execution into reusable operating knowledge:
+
+```text
+task -> trace -> lesson -> template -> rubric -> next better task
 ```
 
 ## Why this should be its own GitHub project
@@ -27,6 +35,8 @@ This should be productized as a project because the valuable asset is not a sing
 - lessons learned that improve future runs
 
 The project should preserve the learning loop even when individual models, tools, or agents change.
+
+In other words: the model is not the moat. The compounding practice is. A team should be able to swap models, tools, or agents without losing the hard-won operational judgment encoded in its workflows.
 
 ## Practice principles
 
@@ -117,3 +127,5 @@ A generic complex task can be used as the seed example for this practice. It sho
 Task management in an AI-assisted enterprise should not be a passive checklist. It should be a harness that compounds human capital and token capital.
 
 The organization owns the learning loop: the patterns, evidence, prompts, decisions, safety gates, and follow-through discipline. Models and tools can change; the practice remains.
+
+Every completed task should make the next task easier to run, safer to execute, and clearer to communicate. That is the promise of AI-assisted task orchestration: not just faster work, but a system that gets better because the work happened.
